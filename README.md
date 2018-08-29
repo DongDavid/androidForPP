@@ -1,0 +1,2 @@
+# androidForPP
+一个android工程示例，使用了百度语音TTS播报功能，同时有volley的简单使用示例
